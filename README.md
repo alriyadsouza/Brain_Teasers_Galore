@@ -19,7 +19,7 @@ The US State Capitals Quiz Generator is a Python program built with Tkinter that
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/alriya/us-state-capitals-quiz-generator.git
+   git clone https://github.com/alriyadsouza/Brain_Teasers_Galore.git
    cd us-state-capitals-quiz-generator
 
 1. Install the required libraries using requirements.txt:
