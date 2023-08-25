@@ -1,0 +1,50 @@
+1. Dover
+2. Frankfort
+3. Hartford
+4. Columbia
+5. Trenton
+6. Raleigh
+7. Jackson
+8. St. Paul
+9. Helena
+10. Indianapolis
+11. Harrisburg
+12. Boise
+13. Baton Rouge
+14. Madison
+15. Charleston
+16. Denver
+17. Montgomery
+18. Montpelier
+19. Santa Fe
+20. Nashville
+21. Tallahassee
+22. Richmond
+23. Columbus
+24. Sacramento
+25. Little Rock
+26. Salem
+27. Phoenix
+28. Augusta
+29. Boston
+30. Juneau
+31. Albany
+32. Cheyenne
+33. Olympia
+34. Atlanta
+35. Bismarck
+36. Providence
+37. Des Moines
+38. Topeka
+39. Springfield
+40. Annapolis
+41. Pierre
+42. Concord
+43. Salt Lake City
+44. Oklahoma City
+45. Lincoln
+46. Austin
+47. Lansing
+48. Honolulu
+49. Carson City
+50. Jefferson City
